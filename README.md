@@ -9,9 +9,9 @@ basic input, output, and operations.
 
 Performs basic arithmetic operations on two numbers entered by the user:
 
--   Addition\
--   Subtraction\
--   Multiplication\
+-   Addition
+-   Subtraction
+-   Multiplication
 -   Division
 
 **Example Run:**
