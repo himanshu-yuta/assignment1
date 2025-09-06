@@ -37,31 +37,12 @@ Greets the user by their full name:
     Enter your last name : Doe
     Hello ! John Doe welcome to the python program
 
-## 🚀 How to Run
 
-1.  Clone this repository:
-
-    ``` bash
-    git clone <repository-url>
-    cd <repository-folder>
-    ```
-
-2.  Run a program:
-
-    ``` bash
-    python Task1.py
-    ```
-
-    or
-
-    ``` bash
-    python Task2.py
-    ```
 
 ## 🎯 Purpose
 
 These programs are created for beginners to practice: - Taking user
 input\
-- Performing calculations\
-- Working with strings\
+- Performing calculations
+- Working with strings
 - Displaying output
